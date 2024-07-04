@@ -1,6 +1,6 @@
 const express = require("express");
-const connectDB = require("../server/utils/connectdb");
-const router = require("../server/router/router");
+const connectDB = require("./utils/connectdb");
+const router = require("./router/router");
 const cors = require("cors");
 
 const app = express();
