@@ -8,7 +8,7 @@ const port = 4000;
 
 // CORS options
 const corsOptions = {
-  origin: "https://sign-up-form-eight-beryl.vercel.app",
+  origin: "https://sign-up-form-umber.vercel.app",
   methods: "GET,POST,DELETE",
   credentials: true,
 };
