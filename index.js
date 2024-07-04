@@ -8,7 +8,7 @@ const port = 4000;
 
 // CORS options
 const corsOptions = {
-  origin: "http://localhost:3000",
+  origin: "https://sign-up-form-eight-beryl.vercel.app",
   methods: "GET,POST,DELETE",
   credentials: true,
 };
